@@ -39,6 +39,7 @@ elif option == "4. Relationship Between Customers and Sales":
 
 elif option == "5. Sales Distribution":
     Chart_5()
+
 elif option == "6. Average Customers by Area":
     Chart_6()
 
