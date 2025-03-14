@@ -9,9 +9,9 @@ INFO6151-Project-1/
 ├── __pycache__/
 ├── utils/
 ├── data/
-    └── Stores.csv
+│   └── Stores.csv
 ├── documents/
-    └── ProjectRequirements_stores.docx
+│   └── ProjectRequirements_stores.docx
 ├── modules/
 │   ├── module1.py
 │   ├── module2.py
